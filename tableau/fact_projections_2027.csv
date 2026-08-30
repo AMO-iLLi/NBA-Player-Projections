@@ -1,0 +1,280 @@
+player,team,age,mp,per,pred_2027,delta,direction,age_group,tier
+Nikola Jokić,DEN,30.0,2265.0,32.3,31.3,-1.0,Fall,28-30,All-Star
+Shai Gilgeous-Alexander,OKC,27.0,2259.0,30.8,29.638,-1.162,Fall,25-27,All-Star
+Giannis Antetokounmpo,MIL,31.0,1039.0,32.6,29.508,-3.092,Fall,31+,All-Star
+Victor Wembanyama,SAS,22.0,1866.0,29.9,28.536,-1.364,Fall,<=24,All-Star
+Luka Dončić,LAL,26.0,2289.0,27.9,27.42,-0.48,Hold,25-27,All-Star
+Jalen Duren,DET,22.0,1976.0,26.1,24.711,-1.389,Fall,<=24,All-Star
+Joel Embiid,PHI,31.0,1201.0,24.7,23.434,-1.266,Fall,31+,All-Star
+Kawhi Leonard,LAC,34.0,2085.0,27.9,22.732,-5.168,Fall,31+,All-Star
+Zion Williamson,NOP,25.0,1841.0,22.6,22.715,0.115,Hold,25-27,All-Star
+Alperen Şengün,HOU,23.0,2398.0,21.4,22.186,0.786,Rise,<=24,All-Star
+Cade Cunningham,DET,24.0,2172.0,21.6,21.877,0.277,Hold,<=24,Quality starter
+Chet Holmgren,OKC,23.0,1997.0,21.6,21.739,0.139,Hold,<=24,Quality starter
+Anthony Edwards,MIN,24.0,2137.0,21.8,21.633,-0.167,Hold,<=24,Quality starter
+Donovan Mitchell,CLE,29.0,2342.0,22.9,21.489,-1.411,Fall,28-30,Quality starter
+Karl-Anthony Towns,NYK,30.0,2322.0,22.0,21.235,-0.765,Fall,28-30,Quality starter
+Donovan Clingan,POR,21.0,2094.0,20.9,21.204,0.304,Hold,<=24,Quality starter
+Mark Williams,PHO,24.0,1416.0,21.8,21.17,-0.63,Fall,<=24,Quality starter
+Jarrett Allen,CLE,27.0,1519.0,22.1,21.058,-1.042,Fall,25-27,Quality starter
+Evan Mobley,CLE,24.0,2074.0,20.0,20.974,0.974,Rise,<=24,Quality starter
+Tyrese Maxey,PHI,25.0,2661.0,21.9,20.661,-1.239,Fall,25-27,Quality starter
+Amen Thompson,HOU,23.0,2953.0,18.9,20.332,1.432,Rise,<=24,Quality starter
+Jimmy Butler,GSW,36.0,1182.0,23.5,20.219,-3.281,Fall,31+,Quality starter
+Jalen Johnson,ATL,24.0,2532.0,20.4,20.095,-0.305,Hold,<=24,Quality starter
+Stephen Curry,GSW,37.0,1329.0,22.6,19.985,-2.615,Fall,31+,Quality starter
+Jalen Brunson,NYK,29.0,2590.0,20.1,19.98,-0.12,Hold,28-30,Quality starter
+Jamal Murray,DEN,28.0,2652.0,21.8,19.926,-1.874,Fall,28-30,Quality starter
+LeBron James,LAL,41.0,1989.0,20.8,19.903,-0.897,Fall,31+,Quality starter
+Paolo Banchero,ORL,23.0,2502.0,17.6,19.831,2.231,Rise,<=24,Quality starter
+Kel'el Ware,MIA,21.0,1704.0,20.0,19.81,-0.19,Hold,<=24,Quality starter
+Jaylen Brown,BOS,29.0,2443.0,22.0,19.766,-2.234,Fall,28-30,Quality starter
+Scottie Barnes,TOR,24.0,2681.0,19.2,19.671,0.471,Hold,<=24,Quality starter
+LaMelo Ball,CHO,24.0,2017.0,19.7,19.662,-0.038,Hold,<=24,Quality starter
+Devin Booker,PHO,29.0,2146.0,20.4,19.379,-1.021,Fall,28-30,Quality starter
+Cooper Flagg,DAL,19.0,2344.0,17.9,19.348,1.448,Rise,<=24,Quality starter
+Deni Avdija,POR,25.0,2199.0,20.3,19.262,-1.038,Fall,25-27,Quality starter
+Austin Reaves,LAL,27.0,1762.0,20.2,19.256,-0.944,Fall,25-27,Quality starter
+Day'Ron Sharpe,BRK,24.0,1160.0,20.5,19.205,-1.295,Fall,<=24,Quality starter
+Robert Williams,POR,28.0,1008.0,22.1,19.168,-2.932,Fall,28-30,Quality starter
+Kevin Durant,HOU,37.0,2840.0,21.1,19.153,-1.947,Fall,31+,Quality starter
+Daniel Gafford,DAL,27.0,1195.0,18.8,19.135,0.335,Hold,25-27,Quality starter
+Alex Sarr,WAS,20.0,1305.0,19.4,19.12,-0.28,Hold,<=24,Quality starter
+Franz Wagner,ORL,24.0,1019.0,19.2,19.089,-0.111,Hold,<=24,Quality starter
+Josh Giddey,CHI,23.0,1731.0,18.0,18.98,0.98,Rise,<=24,Quality starter
+James Harden,2TM,36.0,2438.0,20.7,18.918,-1.782,Fall,31+,Quality starter
+Mitchell Robinson,NYK,27.0,1175.0,21.1,18.781,-2.319,Fall,25-27,Quality starter
+Isaiah Hartenstein,OKC,27.0,1137.0,19.8,18.766,-1.034,Fall,25-27,Quality starter
+Stephon Castle,SAS,21.0,2038.0,17.4,18.602,1.202,Rise,<=24,Quality starter
+Lauri Markkanen,UTA,28.0,1443.0,21.1,18.536,-2.564,Fall,28-30,Quality starter
+Bam Adebayo,MIA,28.0,2365.0,18.7,18.526,-0.174,Hold,28-30,Quality starter
+Ivica Zubac,2TM,28.0,1446.0,18.6,18.482,-0.118,Hold,28-30,Quality starter
+Neemias Queta,BOS,26.0,1926.0,20.3,18.437,-1.863,Fall,25-27,Quality starter
+Marvin Bagley III,2TM,26.0,1201.0,20.2,18.186,-2.014,Fall,25-27,Quality starter
+Kon Knueppel,CHO,20.0,2551.0,17.1,17.994,0.894,Rise,<=24,Starter
+Deandre Ayton,LAL,27.0,1958.0,18.2,17.935,-0.265,Hold,25-27,Starter
+De'Aaron Fox,SAS,28.0,2231.0,17.6,17.869,0.269,Hold,28-30,Starter
+Luka Garza,BOS,27.0,1118.0,19.9,17.846,-2.054,Fall,25-27,Starter
+Dylan Harper,SAS,19.0,1558.0,16.2,17.757,1.557,Rise,<=24,Starter
+Kevin Porter Jr.,MIL,25.0,1261.0,18.7,17.704,-0.996,Fall,25-27,Starter
+Pascal Siakam,IND,31.0,2057.0,18.6,17.582,-1.018,Fall,31+,Starter
+Julius Randle,MIN,31.0,2610.0,18.4,17.372,-1.028,Fall,31+,Starter
+Derik Queen,NOP,21.0,2023.0,15.9,17.333,1.433,Rise,<=24,Starter
+Trey Murphy III,NOP,25.0,2341.0,18.3,17.23,-1.07,Fall,25-27,Starter
+Keyonte George,UTA,22.0,1786.0,18.5,17.224,-1.276,Fall,<=24,Starter
+Tyler Herro,MIA,26.0,1033.0,17.1,17.224,0.124,Hold,25-27,Starter
+Michael Porter Jr.,BRK,27.0,1689.0,19.9,17.188,-2.712,Fall,25-27,Starter
+Desmond Bane,ORL,27.0,2756.0,16.9,17.168,0.268,Hold,25-27,Starter
+Darius Garland,2TM,26.0,1344.0,17.1,17.123,0.023,Hold,25-27,Starter
+Collin Murray-Boyles,TOR,20.0,1246.0,16.4,16.994,0.594,Rise,<=24,Starter
+Tre Jones,CHI,26.0,1752.0,18.7,16.963,-1.737,Fall,25-27,Starter
+Ausar Thompson,DET,23.0,1896.0,16.2,16.929,0.729,Rise,<=24,Starter
+Jaren Jackson Jr.,2TM,26.0,1454.0,15.7,16.899,1.199,Rise,25-27,Starter
+Jakob Poeltl,TOR,30.0,1149.0,18.1,16.896,-1.204,Fall,28-30,Starter
+RJ Barrett,TOR,25.0,1726.0,17.0,16.883,-0.117,Hold,25-27,Starter
+Rudy Gobert,MIN,33.0,2380.0,17.5,16.879,-0.621,Fall,31+,Starter
+Nic Claxton,BRK,26.0,1920.0,17.6,16.808,-0.792,Fall,25-27,Starter
+Onyeka Okongwu,ATL,25.0,2297.0,15.9,16.748,0.848,Rise,25-27,Starter
+Aaron Gordon,DEN,30.0,1005.0,18.5,16.722,-1.778,Fall,28-30,Starter
+Jalen Smith,CHI,25.0,1095.0,16.6,16.678,0.078,Hold,25-27,Starter
+Kyle Filipowski,UTA,22.0,1801.0,16.0,16.673,0.673,Rise,<=24,Starter
+Moussa Diabaté,CHO,24.0,1899.0,17.2,16.639,-0.561,Fall,<=24,Starter
+Jaxson Hayes,LAL,25.0,1207.0,18.3,16.601,-1.699,Fall,25-27,Starter
+Dyson Daniels,ATL,22.0,2520.0,15.5,16.537,1.037,Rise,<=24,Starter
+Immanuel Quickley,TOR,26.0,2231.0,16.6,16.536,-0.064,Hold,25-27,Starter
+Brandon Miller,CHO,23.0,1968.0,16.8,16.536,-0.264,Hold,<=24,Starter
+Jeremiah Fears,NOP,19.0,2112.0,13.8,16.51,2.71,Rise,<=24,Starter
+Sandro Mamukelashvili,TOR,26.0,1751.0,18.1,16.494,-1.606,Fall,25-27,Starter
+VJ Edgecombe,PHI,20.0,2623.0,14.0,16.416,2.416,Rise,<=24,Starter
+Ryan Rollins,MIL,23.0,2376.0,16.2,16.403,0.203,Hold,<=24,Starter
+Collin Sexton,2TM,27.0,1614.0,17.4,16.387,-1.013,Fall,25-27,Starter
+Luke Kornet,SAS,30.0,1430.0,17.9,16.353,-1.547,Fall,28-30,Starter
+Keldon Johnson,SAS,26.0,1911.0,17.3,16.314,-0.986,Fall,25-27,Starter
+Payton Pritchard,BOS,28.0,2556.0,17.1,16.266,-0.834,Fall,28-30,Starter
+Maxime Raynaud,SAC,22.0,1964.0,16.0,16.254,0.254,Hold,<=24,Starter
+Shaedon Sharpe,POR,22.0,1471.0,15.3,16.239,0.939,Rise,<=24,Starter
+Miles Bridges,CHO,27.0,2387.0,16.0,16.2,0.2,Hold,25-27,Starter
+John Collins,LAC,28.0,1872.0,16.3,16.134,-0.166,Hold,28-30,Starter
+Ryan Kalkbrenner,CHO,24.0,1479.0,17.9,16.128,-1.772,Fall,<=24,Starter
+Brandon Williams,DAL,26.0,1463.0,16.8,16.128,-0.672,Fall,25-27,Starter
+Ajay Mitchell,OKC,23.0,1473.0,16.8,16.126,-0.674,Fall,<=24,Starter
+Jaime Jaquez Jr.,MIA,24.0,2121.0,15.7,16.123,0.423,Hold,<=24,Starter
+Nikola Vučević,2TM,35.0,1818.0,17.7,16.081,-1.619,Fall,31+,Starter
+Brandin Podziemski,GSW,22.0,2333.0,15.0,16.08,1.08,Rise,<=24,Starter
+Coby White,2TM,25.0,1249.0,16.1,16.066,-0.034,Hold,25-27,Starter
+Andre Drummond,PHI,32.0,1231.0,16.4,16.033,-0.367,Hold,31+,Starter
+Cedric Coward,MEM,22.0,1598.0,15.3,15.953,0.653,Rise,<=24,Starter
+Jalen Suggs,ORL,24.0,1574.0,15.6,15.923,0.323,Hold,<=24,Starter
+Justin Champagnie,WAS,24.0,1377.0,17.3,15.897,-1.403,Fall,<=24,Starter
+Naz Reid,MIN,26.0,2007.0,15.4,15.882,0.482,Hold,25-27,Starter
+Brandon Ingram,TOR,28.0,2604.0,16.3,15.843,-0.457,Hold,28-30,Starter
+Santi Aldama,MEM,25.0,1198.0,16.3,15.782,-0.518,Fall,25-27,Starter
+Jusuf Nurkić,UTA,31.0,1083.0,16.4,15.746,-0.654,Fall,31+,Starter
+Reed Sheppard,HOU,21.0,2147.0,15.7,15.738,0.038,Hold,<=24,Starter
+Yves Missi,NOP,21.0,1297.0,15.0,15.72,0.72,Rise,<=24,Starter
+Bobby Portis,MIL,30.0,1619.0,17.1,15.705,-1.395,Fall,28-30,Starter
+Isaiah Collier,UTA,21.0,1517.0,14.8,15.705,0.905,Rise,<=24,Starter
+Norman Powell,MIA,32.0,1717.0,17.5,15.69,-1.81,Fall,31+,Starter
+Cam Spencer,MEM,25.0,1714.0,17.2,15.573,-1.627,Fall,25-27,Starter
+Isaiah Stewart,DET,24.0,1317.0,15.2,15.557,0.357,Hold,<=24,Starter
+DeMar DeRozan,SAC,36.0,2406.0,17.8,15.536,-2.264,Fall,31+,Starter
+Bennedict Mathurin,2TM,23.0,1620.0,14.7,15.514,0.814,Rise,<=24,Starter
+Matas Buzelis,CHI,21.0,2248.0,14.8,15.491,0.691,Rise,<=24,Starter
+Gary Payton II,GSW,33.0,1142.0,18.3,15.429,-2.871,Fall,31+,Starter
+Derrick White,BOS,31.0,2625.0,16.0,15.413,-0.587,Fall,31+,Starter
+GG Jackson II,MEM,21.0,1178.0,15.6,15.302,-0.298,Hold,<=24,Starter
+Paul George,PHI,35.0,1135.0,16.7,15.204,-1.496,Fall,31+,Starter
+Saddiq Bey,NOP,26.0,2246.0,17.1,15.201,-1.899,Fall,25-27,Starter
+Precious Achiuwa,SAC,26.0,1745.0,16.2,15.066,-1.134,Fall,25-27,Starter
+Brice Sensabaugh,UTA,22.0,1762.0,14.4,14.939,0.539,Rise,<=24,Bench
+Tari Eason,HOU,24.0,1549.0,12.9,14.932,2.032,Rise,<=24,Bench
+Jabari Smith Jr.,HOU,22.0,2705.0,13.5,14.931,1.431,Rise,<=24,Bench
+Jock Landale,2TM,30.0,1506.0,16.6,14.913,-1.687,Fall,28-30,Bench
+Jay Huff,IND,27.0,1719.0,15.2,14.886,-0.314,Hold,25-27,Bench
+OG Anunoby,NYK,28.0,2224.0,15.8,14.878,-0.922,Fall,28-30,Bench
+Bones Hyland,MIN,25.0,1177.0,15.1,14.861,-0.239,Hold,25-27,Bench
+Jaylin Williams,OKC,23.0,1277.0,13.8,14.781,0.981,Rise,<=24,Bench
+Josh Hart,NYK,30.0,1994.0,15.7,14.745,-0.955,Fall,28-30,Bench
+Nickeil Alexander-Walker,ATL,27.0,2603.0,16.5,14.697,-1.803,Fall,25-27,Bench
+Collin Gillespie,PHO,26.0,2282.0,15.3,14.694,-0.606,Fall,25-27,Bench
+Jaylon Tyson,CLE,23.0,1777.0,14.8,14.669,-0.131,Hold,<=24,Bench
+Jordan Miller,LAC,26.0,1325.0,15.9,14.667,-1.233,Fall,25-27,Bench
+Ayo Dosunmu,2TM,26.0,1881.0,16.5,14.662,-1.838,Fall,25-27,Bench
+Peyton Watson,DEN,23.0,1598.0,14.3,14.624,0.324,Hold,<=24,Bench
+Anthony Black,ORL,22.0,1910.0,13.7,14.59,0.89,Rise,<=24,Bench
+Andrew Nembhard,IND,26.0,1786.0,15.7,14.436,-1.264,Fall,25-27,Bench
+Wendell Carter Jr.,ORL,26.0,2288.0,14.1,14.421,0.321,Hold,25-27,Bench
+Gui Santos,GSW,23.0,1395.0,14.2,14.415,0.215,Hold,<=24,Bench
+Zach LaVine,SAC,30.0,1224.0,14.7,14.389,-0.311,Hold,28-30,Bench
+Dominick Barlow,PHI,22.0,1689.0,13.2,14.387,1.187,Rise,<=24,Bench
+Jrue Holiday,POR,35.0,1560.0,16.4,14.373,-2.027,Fall,31+,Bench
+Myles Turner,MIL,29.0,1912.0,14.2,14.363,0.163,Hold,28-30,Bench
+Naji Marshall,DAL,28.0,2184.0,15.4,14.347,-1.053,Fall,28-30,Bench
+Grayson Allen,PHO,30.0,1467.0,16.1,14.338,-1.762,Fall,28-30,Bench
+Isaiah Joe,OKC,26.0,1507.0,15.5,14.237,-1.263,Fall,25-27,Bench
+CJ McCollum,2TM,34.0,2264.0,15.9,14.174,-1.726,Fall,31+,Bench
+Danny Wolf,BRK,21.0,1187.0,12.3,14.168,1.868,Rise,<=24,Bench
+Craig Porter Jr.,CLE,25.0,1148.0,13.7,14.155,0.455,Hold,25-27,Bench
+Andrew Wiggins,MIA,30.0,2063.0,15.1,14.019,-1.081,Fall,28-30,Bench
+Mikal Bridges,NYK,29.0,2692.0,15.3,14.0,-1.3,Fall,28-30,Bench
+Anfernee Simons,2TM,26.0,1372.0,14.4,13.907,-0.493,Hold,25-27,Bench
+Devin Vassell,SAS,25.0,2044.0,13.0,13.901,0.901,Rise,25-27,Bench
+Oso Ighodaro,PHO,23.0,1808.0,13.8,13.891,0.091,Hold,<=24,Bench
+Kyshawn George,WAS,22.0,1391.0,13.8,13.84,0.04,Hold,<=24,Bench
+Bilal Coulibaly,WAS,21.0,1468.0,13.5,13.836,0.336,Hold,<=24,Bench
+Malik Monk,SAC,27.0,1364.0,14.2,13.816,-0.384,Hold,25-27,Bench
+Adem Bona,PHI,22.0,1234.0,12.8,13.812,1.012,Rise,<=24,Bench
+De'Anthony Melton,GSW,27.0,1125.0,13.4,13.785,0.385,Hold,25-27,Bench
+Tobias Harris,DET,33.0,1746.0,15.0,13.779,-1.221,Fall,31+,Bench
+Cameron Johnson,DEN,29.0,1647.0,12.8,13.759,0.959,Rise,28-30,Bench
+Christian Braun,DEN,24.0,1399.0,12.6,13.748,1.148,Rise,<=24,Bench
+Quentin Grimes,PHI,25.0,2206.0,12.9,13.743,0.843,Rise,25-27,Bench
+Cason Wallace,OKC,22.0,2046.0,12.1,13.743,1.643,Rise,<=24,Bench
+Jaden McDaniels,MIN,25.0,2316.0,14.0,13.741,-0.259,Hold,25-27,Bench
+Ace Bailey,UTA,19.0,1988.0,11.6,13.655,2.055,Rise,<=24,Bench
+Julian Champagnie,SAS,24.0,2266.0,13.1,13.6,0.5,Hold,<=24,Bench
+Dru Smith,MIA,28.0,1141.0,14.5,13.549,-0.951,Fall,28-30,Bench
+Moses Moody,GSW,23.0,1540.0,13.5,13.433,-0.067,Hold,<=24,Bench
+Jerami Grant,POR,31.0,1695.0,15.4,13.424,-1.976,Fall,31+,Bench
+Daniss Jenkins,DET,24.0,1455.0,13.4,13.422,0.022,Hold,<=24,Bench
+Will Riley,WAS,19.0,1633.0,12.1,13.413,1.313,Rise,<=24,Bench
+Ron Holland,DET,20.0,1551.0,11.7,13.408,1.708,Rise,<=24,Bench
+Russell Westbrook,SAC,37.0,1853.0,15.1,13.364,-1.736,Fall,31+,Bench
+Nae'Qwan Tomlin,CLE,25.0,1004.0,12.9,13.343,0.443,Hold,25-27,Bench
+Mouhamed Gueye,ATL,23.0,1179.0,12.0,13.332,1.332,Rise,<=24,Bench
+P.J. Washington,DAL,27.0,1736.0,13.1,13.272,0.172,Hold,25-27,Bench
+Jarace Walker,IND,22.0,1953.0,11.5,13.252,1.752,Rise,<=24,Bench
+Aaron Wiggins,OKC,27.0,1414.0,11.7,13.148,1.448,Rise,25-27,Bench
+Kyle Kuzma,MIL,30.0,1806.0,14.1,13.145,-0.955,Fall,28-30,Bench
+Jake LaRavia,LAL,24.0,2061.0,11.9,13.107,1.207,Rise,<=24,Bench
+Pelle Larsson,MIA,24.0,1849.0,13.1,13.088,-0.012,Hold,<=24,Bench
+Zaccharie Risacher,ATL,20.0,1503.0,11.8,12.995,1.195,Rise,<=24,Bench
+Noah Clowney,BRK,21.0,1780.0,11.2,12.937,1.737,Rise,<=24,Bench
+Donte DiVincenzo,MIN,29.0,2494.0,12.5,12.923,0.423,Hold,28-30,Bench
+Quinten Post,GSW,25.0,1159.0,13.0,12.853,-0.147,Hold,25-27,Bench
+Egor Dёmin,BRK,19.0,1308.0,11.3,12.849,1.549,Rise,<=24,Bench
+Ryan Nembhard,DAL,22.0,1171.0,10.9,12.804,1.904,Rise,<=24,Bench
+Alex Caruso,OKC,31.0,1020.0,12.8,12.795,-0.005,Hold,31+,Bench
+Jared McCain,2TM,21.0,1160.0,11.6,12.758,1.158,Rise,<=24,Bench
+De'Andre Hunter,2TM,28.0,1176.0,11.4,12.662,1.262,Rise,28-30,Bench
+Tre Johnson,WAS,19.0,1443.0,10.6,12.609,2.009,Rise,<=24,Bench
+Jericho Sims,MIL,27.0,1318.0,12.9,12.589,-0.311,Hold,25-27,Bench
+Jordan Goodwin,PHO,27.0,1572.0,14.7,12.558,-2.142,Fall,25-27,Bench
+Pat Spencer,GSW,29.0,1229.0,12.1,12.515,0.415,Hold,28-30,Bench
+Dillon Brooks,PHO,30.0,1702.0,14.1,12.493,-1.607,Fall,28-30,Bench
+Javonte Green,DET,32.0,1446.0,14.1,12.462,-1.638,Fall,31+,Bench
+Derrick Jones Jr.,LAC,28.0,1350.0,13.3,12.429,-0.871,Fall,28-30,Bench
+John Konchar,2TM,29.0,1115.0,13.6,12.426,-1.174,Fall,28-30,Bench
+Jarred Vanderbilt,LAL,26.0,1128.0,11.2,12.385,1.185,Rise,25-27,Bench
+Jordan Walsh,BOS,21.0,1212.0,13.1,12.372,-0.728,Fall,<=24,Bench
+Khris Middleton,2TM,34.0,1439.0,10.9,12.346,1.446,Rise,31+,Bench
+Corey Kispert,2TM,26.0,1080.0,13.1,12.325,-0.775,Fall,25-27,Bench
+Miles McBride,NYK,25.0,1080.0,13.1,12.294,-0.806,Fall,25-27,Bench
+Kevin Huerter,2TM,27.0,1549.0,13.2,12.291,-0.909,Fall,25-27,Bench
+Ryan Dunn,PHO,23.0,1355.0,11.7,12.27,0.57,Rise,<=24,Bench
+Caleb Love,POR,24.0,1013.0,10.7,12.248,1.548,Rise,<=24,Bench
+Dennis Schröder,2TM,32.0,1697.0,12.9,12.22,-0.68,Fall,31+,Bench
+Jaylen Wells,MEM,22.0,1821.0,11.5,12.207,0.707,Rise,<=24,Bench
+Luke Kennard,2TM,29.0,1681.0,13.5,12.206,-1.294,Fall,28-30,Bench
+Ja'Kobe Walter,TOR,21.0,1474.0,11.8,12.194,0.394,Hold,<=24,Bench
+Kelly Oubre Jr.,PHI,30.0,1574.0,13.0,12.19,-0.81,Fall,28-30,Bench
+Ousmane Dieng,2TM,22.0,1099.0,10.2,12.148,1.948,Rise,<=24,Bench
+Gradey Dick,TOR,22.0,1067.0,10.7,12.142,1.442,Rise,<=24,Bench
+Taylor Hendricks,2TM,22.0,1118.0,12.2,12.137,-0.063,Hold,<=24,Bench
+Simone Fontecchio,MIA,30.0,1173.0,13.8,12.13,-1.67,Fall,28-30,Bench
+Rui Hachimura,LAL,27.0,1927.0,11.6,12.127,0.527,Rise,25-27,Bench
+Caris LeVert,DET,31.0,1154.0,10.9,12.066,1.166,Rise,31+,Bench
+Jose Alvarado,2TM,27.0,1370.0,12.1,12.064,-0.036,Hold,25-27,Bench
+Sam Merrill,CLE,29.0,1377.0,13.6,12.041,-1.559,Fall,28-30,Bench
+Ziaire Williams,BRK,24.0,1281.0,12.4,11.985,-0.415,Hold,<=24,Below replacement
+Hugo González,BOS,19.0,1084.0,10.2,11.979,1.779,Rise,<=24,Below replacement
+Toumani Camara,POR,25.0,2731.0,11.3,11.97,0.67,Rise,25-27,Below replacement
+Tristan Da Silva,ORL,24.0,1899.0,12.0,11.945,-0.055,Hold,<=24,Below replacement
+Max Christie,DAL,22.0,2244.0,11.0,11.94,0.94,Rise,<=24,Below replacement
+Davion Mitchell,MIA,27.0,2000.0,12.1,11.929,-0.171,Hold,25-27,Below replacement
+Brook Lopez,LAC,37.0,1635.0,12.3,11.883,-0.417,Hold,31+,Below replacement
+Jamir Watkins,WAS,24.0,1032.0,11.8,11.867,0.067,Hold,<=24,Below replacement
+Jordan Clarkson,NYK,33.0,1279.0,11.6,11.854,0.254,Hold,31+,Below replacement
+Walter Clayton,2TM,22.0,1410.0,10.3,11.816,1.516,Rise,<=24,Below replacement
+Aaron Nesmith,IND,26.0,1335.0,10.8,11.812,1.012,Rise,25-27,Below replacement
+Sam Hauser,BOS,28.0,1934.0,11.9,11.739,-0.161,Hold,28-30,Below replacement
+Bub Carrington,WAS,20.0,2271.0,9.9,11.686,1.786,Rise,<=24,Below replacement
+Jamal Shead,TOR,23.0,1852.0,10.5,11.668,1.168,Rise,<=24,Below replacement
+Baylor Scheierman,BOS,25.0,1429.0,11.6,11.583,-0.017,Hold,25-27,Below replacement
+Guerschon Yabusele,2TM,30.0,1007.0,11.1,11.537,0.437,Hold,28-30,Below replacement
+Will Richard,GSW,23.0,1377.0,11.0,11.475,0.475,Hold,<=24,Below replacement
+Kobe Sanders,LAC,23.0,1351.0,10.0,11.338,1.338,Rise,<=24,Below replacement
+Keon Ellis,2TM,26.0,1478.0,10.8,11.312,0.512,Rise,25-27,Below replacement
+Vít Krejčí,2TM,25.0,1392.0,11.1,11.249,0.149,Hold,25-27,Below replacement
+Bruce Brown,DEN,29.0,1998.0,10.8,11.249,0.449,Hold,28-30,Below replacement
+Nolan Traoré,BRK,19.0,1243.0,7.9,11.237,3.337,Rise,<=24,Below replacement
+Duncan Robinson,DET,31.0,2113.0,12.4,11.15,-1.25,Fall,31+,Below replacement
+Cody Williams,UTA,21.0,1631.0,9.6,11.119,1.519,Rise,<=24,Below replacement
+Josh Okogie,HOU,27.0,1354.0,9.9,11.105,1.205,Rise,25-27,Below replacement
+Nique Clifford,SAC,23.0,1882.0,9.0,10.917,1.917,Rise,<=24,Below replacement
+Harrison Barnes,SAS,33.0,1986.0,11.8,10.914,-0.886,Fall,31+,Below replacement
+Kris Dunn,LAC,31.0,2230.0,11.3,10.905,-0.395,Hold,31+,Below replacement
+Marcus Smart,LAL,31.0,1769.0,9.9,10.89,0.99,Rise,31+,Below replacement
+Tim Hardaway Jr.,DEN,33.0,2127.0,13.5,10.867,-2.633,Fall,31+,Below replacement
+Isaac Okoro,CHI,25.0,1695.0,9.8,10.829,1.029,Rise,25-27,Below replacement
+Draymond Green,GSW,35.0,1869.0,10.4,10.728,0.328,Hold,31+,Below replacement
+Rayan Rupert,2TM,21.0,1072.0,8.2,10.703,2.503,Rise,<=24,Below replacement
+Terance Mann,BRK,29.0,1529.0,10.2,10.656,0.456,Hold,28-30,Below replacement
+Landry Shamet,NYK,28.0,1171.0,11.2,10.567,-0.633,Fall,28-30,Below replacement
+Herbert Jones,NOP,27.0,1588.0,9.1,10.523,1.423,Rise,25-27,Below replacement
+Klay Thompson,DAL,35.0,1497.0,11.4,10.452,-0.948,Fall,31+,Below replacement
+Royce O'Neale,PHO,32.0,2213.0,11.6,10.428,-1.172,Fall,31+,Below replacement
+Kentavious Caldwell-Pope,MEM,32.0,1088.0,11.0,10.422,-0.578,Fall,31+,Below replacement
+Sidy Cissoko,POR,21.0,1435.0,7.1,10.387,3.287,Rise,<=24,Below replacement
+Dean Wade,CLE,29.0,1318.0,10.9,10.348,-0.552,Fall,28-30,Below replacement
+Ben Sheppard,IND,24.0,1390.0,9.7,10.301,0.601,Rise,<=24,Below replacement
+Svi Mykhailiuk,UTA,28.0,1156.0,11.4,10.237,-1.163,Fall,28-30,Below replacement
+Kris Murray,POR,25.0,1333.0,9.6,10.212,0.612,Rise,25-27,Below replacement
+Patrick Williams,CHI,24.0,1474.0,8.2,10.203,2.003,Rise,<=24,Below replacement
+Spencer Jones,DEN,24.0,1417.0,9.3,10.137,0.837,Rise,<=24,Below replacement
+Sion James,CHO,23.0,1843.0,8.3,10.095,1.795,Rise,<=24,Below replacement
+A.J. Green,MIL,26.0,2270.0,9.4,9.834,0.434,Hold,25-27,Below replacement
+Luguentz Dort,OKC,26.0,1849.0,8.3,9.748,1.448,Rise,25-27,Below replacement
+Drake Powell,BRK,20.0,1320.0,7.3,9.434,2.134,Rise,<=24,Below replacement
+Gary Trent Jr.,MIL,27.0,1377.0,8.0,9.404,1.404,Rise,25-27,Below replacement
+Nicolas Batum,LAC,37.0,1295.0,8.4,7.781,-0.619,Fall,31+,Below replacement

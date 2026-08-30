@@ -1,0 +1,6 @@
+model,MAE,ci_lo,ci_hi,RMSE,R2,improve_vs_base,significant
+Persistence,1.8744,1.7839,1.9734,2.4215,0.7084,0.0,False
+Ridge,1.6827,1.6007,1.7691,2.1459,0.771,0.1906,True
+RandomForest,1.7245,1.6343,1.8178,2.2123,0.7566,0.1508,True
+XGBoost,1.7003,1.613,1.7892,2.1852,0.7626,0.1732,True
+LightGBM,1.7046,1.6148,1.7933,2.1935,0.7608,0.1707,True

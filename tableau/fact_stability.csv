@@ -1,0 +1,17 @@
+stat,n,corr,tier
+trb_percent,7088,0.94,Very stable
+x3p_ar,7085,0.935,Very stable
+ast_percent,7088,0.911,Very stable
+blk_percent,7088,0.899,Very stable
+usg_percent,7088,0.861,Very stable
+per,7088,0.777,Stable
+vorp,7088,0.771,Stable
+stl_percent,7088,0.751,Stable
+ft_percent,7055,0.7,Stable
+bpm,7088,0.689,Stable
+tov_percent,7086,0.686,Stable
+ws_48,7088,0.613,Weak
+ts_percent,7085,0.583,Weak
+mp,7088,0.526,Weak
+x3p_percent,6445,0.503,Weak
+g,7088,0.163,Noise
