@@ -224,7 +224,7 @@ Refit on all data through 2025 and applied to the 2026 season, for 279 players w
 
 ### Data
 
-Basketball-Reference data via [Kaggle: NBA Stats (1947–present)](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats). Ten source files joined on `season` + `player_id`.
+Basketball-Reference data via [Kaggle: NBA Stats (1947–present)](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats). Eight source files joined on `season` + `player_id`.
 
 Scope is 1997 onward, since shooting and play-by-play data don't exist before that. ABA and BAA seasons excluded.
 
